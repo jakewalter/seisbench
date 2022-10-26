@@ -8,6 +8,7 @@ from .base import (
 )
 from .dummy import DummyDataset, ChunkedDummyDataset
 from .stead import STEAD
+from .okla import OKLA
 from .geofon import GEOFON
 from .lendb import LenDB
 from .neic import NEIC
